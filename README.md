@@ -1,4 +1,4 @@
-# DS4002CC3
+# DS4002CS3
 The purpose of this case study is to understand image recognition and object detection algorithms using the You Only Look Once (YOLO) model with images of a variety of fruits. 
 
 ## Software and Platform 
